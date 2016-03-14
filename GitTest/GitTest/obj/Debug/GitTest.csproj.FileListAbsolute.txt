@@ -1,0 +1,1 @@
+E:\TEST\VS2008\GitTest\git-test\GitTest\GitTest\bin\Debug\GitTest.exe.config
